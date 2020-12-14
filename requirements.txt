@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+researchpy
+vega_datasets
+pydeck
